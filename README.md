@@ -4,7 +4,3 @@ Insructions:
 - Lauch game
 - Start a wingman or any other gamemode
 - Lauch cheat and see that you have anti-flash and 120 fov
-
-In working:
-- Wall hack
-- Trigger bot
